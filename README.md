@@ -36,7 +36,6 @@
 | **Rizkif Pay** | [payment.rizkif.com](https://payment.rizkif.com/) | Autonomous 0%-fee dynamic EMVCo QRIS payment gateway & merchant API |
 | **Sawer Rizkif** | [sawer.rizkif.com](https://sawer.rizkif.com/) | Live streaming creator tipping with OBS Alert Box, Indonesian TTS & YouTube MediaShare |
 | **Status Monitor** | [status.rizkif.com](https://status.rizkif.com/) | 24/7 real-time uptime & latency monitor across all services |
-| **INFINITE Vol. 5** | [infinite.rizkif.com](https://infinite.rizkif.com/) | Interactive Three.js 3D showcase & editorial web experience |
 
 ---
 
